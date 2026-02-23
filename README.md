@@ -3,7 +3,7 @@ This project implements a complete neural radiance field (NeRF) reconstruction p
 
 ## Results
 - Detailed report: `NeRF_project_report_Aaron_Miller.pdf` (1.5 MB)
-- Exported point cloud: `exports/pdc/point_cloud.ply` (26 MB)
-- Sample input video: `data/sample_video.mp4` (5 MB)
+- Exported point cloud: `exports/pcd/point_cloud.ply` (26 MB)
+- Sample input video: `data/Sample_video.mp4` (5 MB)
   
 This repository documents the reconstruction pipeline and environment configuration used for experimentation. It is not intended to be a fully portable executable package.
